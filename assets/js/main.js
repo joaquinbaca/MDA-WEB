@@ -1,8 +1,8 @@
-/*
-	Projection by TEMPLATED
-	templated.co @templatedco
-	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
-*/
+<!--
+	eCalendar by MDA
+	Universidad de Granada, www.ugr.es
+	Realizado por @Joaquin, @Alex, @Sergio, @Albaro, @Emilien
+-->
 
 (function($) {
 
