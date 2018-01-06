@@ -1,8 +1,9 @@
-<!--
+/*
 	eCalendar by MDA
 	Universidad de Granada, www.ugr.es
 	Realizado por @Joaquin, @Alex, @Sergio, @Albaro, @Emilien
--->
+
+*/
 
 (function($) {
 
